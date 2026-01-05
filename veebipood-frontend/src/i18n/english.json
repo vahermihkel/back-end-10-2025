@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "homepage": "Home page",
+    "cart": "Cart",
+    "admin": "Admin view"
+  },
+  "sort": {
+    "id-asc": "Sort older first",
+    "id-desc": "Sort newer first",
+    "name-asc": "Sort A-Z",
+    "name-desc": "Sort Z-A",
+    "price-asc": "Sort price ascending",
+    "price-desc": "Sort price descending"
+  },
+  "error": {
+    "Invalid email": "Invalid email",
+    "Invalid password": "Invalid password",
+    "generic": "Unexpected error"
+  }
+}

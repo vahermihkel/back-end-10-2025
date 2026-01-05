@@ -1,0 +1,20 @@
+{
+      "nav": {
+        "homepage": "Avaleht",
+        "cart": "Ostukorv",
+        "admin": "Admini vaade"
+      },
+      "sort": {
+        "id-asc": "Sorteeri vanemad eespool",
+        "id-desc": "Sorteeri uuemad eespool",
+        "name-asc": "Sorteeri A-Z",
+        "name-desc": "Sorteeri Z-A",
+        "price-asc": "Sorteeri hind kasvavalt",
+        "price-desc": "Sorteeri hind kahanevalt"
+      },
+      "error": {
+        "Invalid email": "Mittevaliidne email",
+        "Invalid password": "Mittevaliidne password",
+        "generic": "Mitteoodatud viga"
+      }
+    }
